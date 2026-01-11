@@ -7,14 +7,14 @@ I develop backend applications using Java and Spring Boot, with a focus on build
 
 <div align="center">
   <p>
-    <a href="mailto:illuminatisumedh@gmail.com">
-      <img src="https://img.shields.io/badge/Email-illuminatisumedh@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+    <a href="mailto:sumedhbhole.dev@gmail.com">
+     <img src="https://img.shields.io/badge/Email-sumedhbhole.dev@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white">
     </a>
     <a href="https://www.sumedhbhole.site">
       <img src="https://img.shields.io/badge/Website-sumedhbhole.site-0078D4?style=for-the-badge&logo=google-chrome&logoColor=white">
     </a>
-    <a href="tel:+919604960646">
-      <img src="https://img.shields.io/badge/Phone-919604960646-success?style=for-the-badge&logo=whatsapp&logoColor=white">
+    <a href="tel:+919075456321">
+      <img src="https://img.shields.io/badge/Phone-919075456321-success?style=for-the-badge&logo=whatsapp&logoColor=white">
     </a>
   </p>
 </div>
